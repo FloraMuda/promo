@@ -1,2 +1,0 @@
-# promo-roi
-Roi Calculator
